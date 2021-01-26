@@ -8,7 +8,7 @@ branding:
 
 description: 'Use PHP-CS-Fixer via GithubAction.'
 
-name: 'OSKAR-PHP-CS-Fixer'
+name: 'OSKAR-PHP-CS-Fixer-php8'
 
 runs:
     using: 'docker'
